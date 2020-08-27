@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/momokatte/go-backoff"
-	vrl "github.com/youtube/vitess/go/ratelimiter"
+	vrl "vitess.io/vitess/go/ratelimiter"
 )
 
 /*
